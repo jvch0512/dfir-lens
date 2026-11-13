@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; form-action 'none'">
+<title>dfir-lens</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>dfir-lens</h1>
+  <p class="sub">Drop Windows event exports, Linux auth.log or web access logs. Parsing and detection run in this tab. Nothing is uploaded.</p>
+</header>
+<main>
+  <section id="drop" tabindex="0" aria-label="Drop log files here">
+    <p><strong>Drop files here</strong> or <label class="pick">choose files<input id="file" type="file" multiple hidden></label></p>
+    <p class="hint">JSON / JSON lines (Windows), syslog auth.log, combined access log. <button id="sample" type="button">Load the sample incident</button></p>
+    <label class="year">Year for syslog lines <input id="year" type="number" min="1970" max="2100" value="2026"></label>
+  </section>
+  <section id="summary" hidden>
+    <div id="stats"></div>
+    <div id="chains"></div>
+    <div class="actions"><button id="dl-md" type="button">Download report (.md)</button> <button id="dl-csv" type="button">Download timeline (.csv)</button></div>
+  </section>
+  <section id="results" hidden>
+    <div class="cols">
+      <div>
+        <h2>Findings</h2>
+        <div class="filters" id="sev-filters"></div>
+        <ul id="findings"></ul>
+      </div>
+      <div>
+        <h2>Timeline <span id="tl-count"></span></h2>
+        <input id="q" type="search" placeholder="filter: host, user, ip, text" aria-label="Filter timeline">
+        <div id="timeline" role="table"></div>
+      </div>
+    </div>
+  </section>
+  <p id="warn" role="status"></p>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>

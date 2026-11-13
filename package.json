@@ -1,0 +1,17 @@
+{
+  "name": "dfir-lens",
+  "version": "1.0.0",
+  "description": "Browser-based forensic timeline builder: drop Windows event exports, Linux auth.log and web access logs, get a merged timeline, ATT&CK-mapped findings and an attack-chain report. Everything runs locally, nothing is uploaded. Zero runtime dependencies.",
+  "license": "MIT",
+  "type": "module",
+  "bin": { "dfir-lens": "dist/src/cli.js" },
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/src/server-main.js",
+    "test": "tsc && node --test dist/test/*.test.js"
+  },
+  "repository": "github:jvch0512/dfir-lens",
+  "keywords": ["dfir", "forensics", "timeline", "incident-response", "windows-event-log", "mitre-attack", "log-analysis", "cybersecurity", "typescript"],
+  "devDependencies": { "@types/node": "^22.0.0", "typescript": "^5.6.0" },
+  "engines": { "node": ">=20" }
+}

